@@ -36,7 +36,7 @@ To use this tool, you will need:
 
 1.  A valid `.pfx` code signing certificate.
 2.  The password for your `.pfx` certificate (if applicable).
-3.  **`signtool.exe`**: This utility **does not** include `signtool.exe`. You must obtain it from the [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/) and place it in the same directory as this application.
+
 
 ## Installation & Setup (For Compiled Release)
 
