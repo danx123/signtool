@@ -8,7 +8,8 @@
 A professional, enterprise-grade GUI utility for digitally signing Windows executables (.exe, .dll) and libraries using `signtool.exe`. This tool is designed to streamline the code signing process, offering a robust batch mode for signing multiple files in a single, verified operation.
 
 ![Macan Sign Tool Screenshot]
-<img width="552" height="529" alt="Screenshot 2025-11-02 201019" src="https://github.com/user-attachments/assets/0fc39424-eac3-4cb6-8a09-f6df161f0ff7" />
+<img width="551" height="534" alt="Screenshot 2026-02-02 191157" src="https://github.com/user-attachments/assets/84aefc1c-9d8a-451f-b721-4bcf306687fb" />
+
 
 
 
