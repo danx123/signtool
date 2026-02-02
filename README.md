@@ -1,7 +1,7 @@
 # Macan Sign Tool
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Release](https://img.shields.io/badge/release-v2.2-brightgreen.svg)
+![Release](https://img.shields.io/badge/release-v3.2-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Framework](https://img.shields.io/badge/framework-PySide6-cyan)
 
